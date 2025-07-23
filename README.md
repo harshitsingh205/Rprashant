@@ -1,6 +1,6 @@
 # CodeSoft Internship Project
 
-This repository contains the project(s) I worked on during my 3-month internship at CodeSoft.  
+This repository contains the project(s) I worked on during my 1-month internship at CodeSoft.  
 
 ## Project Details  
 - Intern: Prahant Singh  
